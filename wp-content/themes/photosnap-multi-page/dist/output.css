@@ -725,6 +725,10 @@ video {
   background-color: rgb(245 245 245 / var(--tw-bg-opacity));
 }
 
+.bg-cover{
+  background-size: cover;
+}
+
 .bg-center{
   background-position: center;
 }
@@ -827,6 +831,11 @@ video {
   padding-bottom: 72px;
 }
 
+.py-44{
+  padding-top: 11rem;
+  padding-bottom: 11rem;
+}
+
 .pb-10{
   padding-bottom: 2.5rem;
 }
@@ -897,6 +906,10 @@ video {
 
 .pt-8{
   padding-top: 2rem;
+}
+
+.pt-\[72px\]{
+  padding-top: 72px;
 }
 
 .text-left{
